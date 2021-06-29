@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lifer\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lifer\\.nuget\\packages"
+    ]
+  }
+}

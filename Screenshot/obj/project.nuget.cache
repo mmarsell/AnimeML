@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "T0wBnWfsPyi2oCVuybIVcDMskkge36WNHITj5d3BdNbvkLtHyhIyVblquUUYo5N5FrwGKOG+khaco8Q4lxu/ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lifer\\source\\repos\\anime-classifier\\Screenshot\\Screenshot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lifer\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\lifer\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\lifer\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

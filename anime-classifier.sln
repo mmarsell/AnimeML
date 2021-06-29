@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anime-classifier", "anime-classifier\anime-classifier.csproj", "{F164ABDB-C6F2-4E0E-BF18-AF3FD5BD17C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screenshot", "Screenshot\Screenshot.csproj", "{8158F157-2248-4EB5-900C-7920F2AAA591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F164ABDB-C6F2-4E0E-BF18-AF3FD5BD17C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F164ABDB-C6F2-4E0E-BF18-AF3FD5BD17C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F164ABDB-C6F2-4E0E-BF18-AF3FD5BD17C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F164ABDB-C6F2-4E0E-BF18-AF3FD5BD17C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8158F157-2248-4EB5-900C-7920F2AAA591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8158F157-2248-4EB5-900C-7920F2AAA591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8158F157-2248-4EB5-900C-7920F2AAA591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8158F157-2248-4EB5-900C-7920F2AAA591}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0677F394-DD49-4F55-BA82-4B97D488F2EE}
+	EndGlobalSection
+EndGlobal
